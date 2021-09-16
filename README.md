@@ -1,6 +1,7 @@
 # Random Games Made using C
  Iya tau, saya stress
- Was made when I was in my freshmen year of college.
+ 
+ The games were made when I was in my freshmen year of college.
 
 Games:
 
