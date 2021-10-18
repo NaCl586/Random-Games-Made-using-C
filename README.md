@@ -1,5 +1,4 @@
 # Random Games Made using C
- Iya tau, saya stress
  
  The games were made when I was in my freshmen year of college.
 
